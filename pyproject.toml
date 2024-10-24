@@ -1,0 +1,7 @@
+[project]
+name = "goosedb"
+version = "0.1.0"
+description = "GooseDB, a chaotic wrapper around DuckDB that randomly interrupts your database operations with goose attacks! "
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ["duckdb>=1.1.2", "numpy>=2.1.2", "pandas>=2.2.3"]
